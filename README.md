@@ -7,3 +7,5 @@ credits:
 [runestar](https://github.com/runestar/) - [runescape fonts](https://github.com/runestar/fonts)
 
 supports linux, 5:4, and all those other cool use cases.
+
+[sourcemod hud development server](https://discord.gg/QKsBkdqxbN) for all your hud development needs
